@@ -13,7 +13,7 @@ def divide(x, y):
     return x / y
 
 def main():
-    while True:
+    while False:
         print("Select operation:")
         print("1. Add")
         print("2. Subtract")
